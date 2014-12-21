@@ -137,9 +137,5 @@ ATTRIBUTE Rd-Reset-Interval-Time    3144 integer
 ATTRIBUTE Rd-Mac-Counter-Time       3145 integer
 ATTRIBUTE Rd-Reset-Hour-Time        3146 integer
 
-ATTRIBUTE Account-Starttime         3047 integer
-ATTRIBUTE Account-Endtime           3048 integer
-ATTRIBUTE Current-Time              3049 integer
-
 $INCLUDE  /usr/local/etc/raddb/dictionary_overrides/dictionary.mikrotik
 $INCLUDE  /usr/local/etc/raddb/dictionary_overrides/dictionary.chillispot

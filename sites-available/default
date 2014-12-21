@@ -67,12 +67,6 @@
 #  Make *sure* that 'preprocess' comes before any realm if you 
 #  need to setup hints for the remote radius server
 authorize {
-
-	# read the validity from file
-	start_end_time
-	# check it
-	check_validity
-
 	#
 	#  Security settings.  Take a User-Name, and do some simple
 	#  checks on it, for spaces and other invalid characters.  If
