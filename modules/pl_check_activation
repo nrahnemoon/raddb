@@ -1,0 +1,3 @@
+perl pl_check_activation {
+	module = ${confdir}/check_activation.pl
+}

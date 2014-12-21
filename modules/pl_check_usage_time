@@ -1,0 +1,3 @@
+perl pl_check_usage_time {
+	module = ${confdir}/check_usage_time.pl
+}

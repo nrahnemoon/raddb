@@ -1,0 +1,3 @@
+perl pl_check_usage {
+	module = ${confdir}/check_usage.pl
+}

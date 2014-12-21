@@ -1,0 +1,74 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1 (0x1)
+        Signature Algorithm: md5WithRSAEncryption
+        Issuer: C=FR, ST=Radius, L=Somewhere, O=Example Inc./emailAddress=admin@example.com, CN=Example Certificate Authority
+        Validity
+            Not Before: Jun  8 21:55:15 2012 GMT
+            Not After : Jun  8 21:55:15 2013 GMT
+        Subject: C=FR, ST=Radius, O=Example Inc., CN=Example Server Certificate/emailAddress=admin@example.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+            RSA Public Key: (2048 bit)
+                Modulus (2048 bit):
+                    00:bc:a3:22:c6:d5:42:26:c8:57:2e:70:d4:fe:0c:
+                    09:20:cf:50:b6:d9:dd:bf:d0:ce:37:9d:84:7d:87:
+                    11:fa:d5:bd:1f:ce:96:bd:f7:bd:0d:c5:76:d3:47:
+                    03:73:ed:31:4a:43:ba:b2:ee:77:c8:dc:fc:df:98:
+                    ee:82:c9:e7:56:f1:12:b2:8c:f7:23:06:3c:4d:73:
+                    a1:6d:35:5b:7c:3b:a6:29:ec:86:2b:2c:d0:71:22:
+                    4d:df:f1:b5:ef:77:bd:c7:ff:17:9b:1d:9a:c0:6c:
+                    9e:60:b9:7f:cf:40:df:12:9d:f0:cf:38:ce:7e:70:
+                    7e:98:4d:92:4f:94:66:e7:7c:1e:7a:46:38:b5:10:
+                    f8:e7:1b:f9:dd:3c:a8:b3:e3:b2:5f:88:21:7d:fa:
+                    2e:f0:93:39:62:d4:ac:e9:60:ba:bf:a8:37:26:83:
+                    f9:3d:3f:2a:8c:5f:f3:3f:3a:ea:bc:bb:a8:31:f4:
+                    79:11:48:f7:df:7e:0f:fd:f4:00:57:48:77:b8:c2:
+                    6f:74:2d:e9:39:8c:54:e8:d4:54:53:1e:65:cf:08:
+                    50:53:fa:0e:b6:15:de:67:86:47:35:ae:8e:09:90:
+                    f1:26:6e:61:61:9d:9c:8a:9c:07:8b:b7:12:2f:a8:
+                    2a:75:3c:0f:2e:66:bb:de:08:4f:fa:1e:02:3b:57:
+                    26:7b
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+    Signature Algorithm: md5WithRSAEncryption
+        47:92:10:57:c8:1a:08:35:cc:a3:49:96:ac:e3:47:55:f9:83:
+        28:77:5f:cc:a9:db:31:e2:3e:3c:64:c7:cd:24:27:4f:8e:b2:
+        e4:eb:3d:20:79:af:bf:87:b9:05:ce:63:30:e0:a0:42:86:ba:
+        31:18:8c:9d:5c:90:f8:c1:e7:8c:f0:84:9d:66:ef:19:c3:dd:
+        17:26:41:05:1a:44:f1:53:b6:33:e4:72:08:ae:11:4f:c6:61:
+        be:8a:95:cf:2d:d5:32:d5:40:82:91:d9:32:f5:7a:c8:be:d2:
+        5c:5c:7b:9a:d3:10:87:ea:28:1d:dd:a5:fb:2e:be:f1:00:5a:
+        d5:92:87:0a:b5:b9:ac:ad:44:75:cd:9c:ec:e3:bf:2d:51:60:
+        07:51:36:d1:39:ca:37:fc:fa:0c:69:fa:cf:5f:cd:af:98:5f:
+        76:a6:38:cb:27:8b:34:44:a6:57:01:38:50:a0:b4:67:11:ab:
+        84:b0:bd:aa:d2:65:8c:6a:a6:6a:4c:1d:5b:9e:6a:e7:1a:45:
+        d6:27:54:3e:4b:c6:8b:5c:f7:f1:9a:f6:a3:80:b6:8b:9a:c3:
+        d6:c3:8c:46:11:97:cf:94:f8:fe:84:28:9d:e0:0f:b7:cf:04:
+        74:a5:70:ce:97:91:d8:9c:84:77:1a:ba:62:e9:f5:d0:e7:b3:
+        7b:c6:3d:18
+-----BEGIN CERTIFICATE-----
+MIIDojCCAoqgAwIBAgIBATANBgkqhkiG9w0BAQQFADCBkzELMAkGA1UEBhMCRlIx
+DzANBgNVBAgTBlJhZGl1czESMBAGA1UEBxMJU29tZXdoZXJlMRUwEwYDVQQKEwxF
+eGFtcGxlIEluYy4xIDAeBgkqhkiG9w0BCQEWEWFkbWluQGV4YW1wbGUuY29tMSYw
+JAYDVQQDEx1FeGFtcGxlIENlcnRpZmljYXRlIEF1dGhvcml0eTAeFw0xMjA2MDgy
+MTU1MTVaFw0xMzA2MDgyMTU1MTVaMHwxCzAJBgNVBAYTAkZSMQ8wDQYDVQQIEwZS
+YWRpdXMxFTATBgNVBAoTDEV4YW1wbGUgSW5jLjEjMCEGA1UEAxMaRXhhbXBsZSBT
+ZXJ2ZXIgQ2VydGlmaWNhdGUxIDAeBgkqhkiG9w0BCQEWEWFkbWluQGV4YW1wbGUu
+Y29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvKMixtVCJshXLnDU
+/gwJIM9Qttndv9DON52EfYcR+tW9H86Wvfe9DcV200cDc+0xSkO6su53yNz835ju
+gsnnVvESsoz3IwY8TXOhbTVbfDumKeyGKyzQcSJN3/G173e9x/8Xmx2awGyeYLl/
+z0DfEp3wzzjOfnB+mE2ST5Rm53weekY4tRD45xv53Tyos+OyX4ghffou8JM5YtSs
+6WC6v6g3JoP5PT8qjF/zPzrqvLuoMfR5EUj3334P/fQAV0h3uMJvdC3pOYxU6NRU
+Ux5lzwhQU/oOthXeZ4ZHNa6OCZDxJm5hYZ2cipwHi7cSL6gqdTwPLma73ghP+h4C
+O1cmewIDAQABoxcwFTATBgNVHSUEDDAKBggrBgEFBQcDATANBgkqhkiG9w0BAQQF
+AAOCAQEAR5IQV8gaCDXMo0mWrONHVfmDKHdfzKnbMeI+PGTHzSQnT46y5Os9IHmv
+v4e5Bc5jMOCgQoa6MRiMnVyQ+MHnjPCEnWbvGcPdFyZBBRpE8VO2M+RyCK4RT8Zh
+voqVzy3VMtVAgpHZMvV6yL7SXFx7mtMQh+ooHd2l+y6+8QBa1ZKHCrW5rK1Edc2c
+7OO/LVFgB1E20TnKN/z6DGn6z1/Nr5hfdqY4yyeLNESmVwE4UKC0ZxGrhLC9qtJl
+jGqmakwdW55q5xpF1idUPkvGi1z38Zr2o4C2i5rD1sOMRhGXz5T4/oQoneAPt88E
+dKVwzpeR2JyEdxq6Yun10Oeze8Y9GA==
+-----END CERTIFICATE-----

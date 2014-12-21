@@ -1,0 +1,3 @@
+perl pl_reset_time_for_data {
+	module = ${confdir}/reset_time_for_data.pl
+}
